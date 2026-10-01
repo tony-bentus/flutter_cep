@@ -37,12 +37,6 @@ flutter pub get
 flutter run
 ```
 
-Para executar os testes:
-
-```bash
-flutter test
-```
-
 ## Exemplo de uso
 
 Digite um CEP, como `01310-100`, e toque em **Buscar CEP**. O aplicativo consulta o ViaCEP e mostra as informações encontradas.
